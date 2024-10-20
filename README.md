@@ -8,9 +8,7 @@ Welcome to the Data Structures and Algorithms (DSA) in Java repository! This rep
 
 This repository includes clean and optimized implementations of DSA in Java and an extensive range of DSA topics, covering both fundamental and advanced concepts.
 
-
 ##  Data Structures Implemented:
-
 
 - Arrays: Dynamic array manipulation and algorithms.
 - Linked Lists: Singly, Doubly, and Circular implementations.
@@ -30,7 +28,7 @@ This repository includes clean and optimized implementations of DSA in Java and 
 - Backtracking: N-Queens problem, Sudoku Solver.
 - Divide and Conquer: Efficient strategies like Merge Sort and Quick Sort.
 
-Instead of just reading about algorithms, why not implement them from scratch? This repository encourages hands-on coding to solidify your grasp of DSA topics.
+
 ## 🌟 Features
 
 Instead of just reading about algorithms, why not implement them from scratch? This repository encourages hands-on coding to solidify your grasp of DSA topics.From simple array manipulations to advanced graph algorithms, this repository covers a wide spectrum of problems. Every algorithm is implemented keeping real-world application and interview questions in mind.
