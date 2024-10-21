@@ -1,5 +1,3 @@
-package Function;
-
 import java.util.Scanner;
 
 public class _01_Sum {
