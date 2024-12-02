@@ -1,9 +1,9 @@
 package _07_Strings;
 
-import java.util.*;
-public class StringAssques 
-{
+import java.util.Scanner;
 
+public class _07_CountVowels {
+    
     public static void countvowels(String str)
     {
         int count=0;
@@ -38,5 +38,4 @@ public class StringAssques
 
         sc.close();
     }
-    
 }
